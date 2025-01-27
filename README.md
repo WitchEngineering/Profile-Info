@@ -3,7 +3,7 @@
 - 🌱 In the mean time im currently learning: C++, C , HTML, CSS, JavaScript, Python, "RUST" and some otheres if needed.
 - 💞️ On the other hand, my houpfull wish is to collaborate on some big projects.... from as small as little coding projects as big as full on Operative Systems and Apps.
 - 📫 Contact info is OFF for now.
-- ⚡ Fun fact: ... The mitocondria us the power house of the cell 
+
 
 <!---
 WitchEngineering/WitchEngineering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
